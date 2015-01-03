@@ -1,3 +1,4 @@
+deving
 class MyType(type):
     def __new__(cls,cname,supers,cdicts):
         for k,v in cdicts.items():
